@@ -10,6 +10,9 @@ cite:before,
     width: 100% !important;
     height: 100% !important;
 }
+*:first-child {
+    margin-top: 0 !important;
+}
 .video-responsive:before {
   content: "";
   display: block;
