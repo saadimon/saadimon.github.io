@@ -8,11 +8,6 @@ cite:before,
   display: block;
   padding-bottom: 56.25%;
 }
-.video-responsive:before {
-  content: "";
-  display: block;
-  padding-bottom: 56.25%;
-}
 .code-section-body {
   white-space: unset;
 }
